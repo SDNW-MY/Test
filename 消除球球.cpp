@@ -395,4 +395,8 @@ void show()
 }
 
 // 菜ji
-//big caiji
+
+void s_show()
+{
+    //heihei
+}
