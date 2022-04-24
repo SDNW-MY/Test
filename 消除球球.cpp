@@ -395,3 +395,8 @@ void show()
 }
 
 // 菜ji
+
+void s_show()
+{
+    //heihei
+}
